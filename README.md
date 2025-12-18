@@ -5,7 +5,7 @@
 </p>
 
 <!-- LOGO -->
-<!-- ![Logo](https://drive.google.com/uc?export=view&id=1E2V6TceADZ4h36LZmjEyfMW-4jOh2sUT) -->
+<!-- ![Logo](https://previews.dropbox.com/p/thumb/AC26cYDZ0edKrAvJ6ho1BWDKYUjj7QYMhsjxD7H4JsDRrtlzcS3QAj5X5S9xV2cMey8CqoqdauX9vQ28o_tarzmORCrnff6kUvujcFhu9RrkoVA75pu81K__HTZ9zqsptayW9-v2dQmiVlpMaT1GjCz1CeFjns432CmbMf5DtoQO0Xuwxtc3PuCS15N4HT-Lm-CkJOTmtJMPNuRD3J1kQ-Ugqn7tS2P0MWDIa3Y-bA4PyQnkfmkqMKlrZE9C7nCKugudyTiJSQIlpFRlJpW7_kWwDMddjhA4CZRX-cQTb59FjkF7USNVAHcGK8LPhVhMgGxCkj-k8sD-T69zHzP-pybFyBEOzWlwhXYF1uhq2SyGVHeKqdv83m3QLJ89OYQ5KXk6KSZaiMYnHs4YVaDRFVmp/p.png?is_prewarmed=true) -->
 
 <h1 align="center">nvim-dotfiles</h1>
 
