@@ -5,7 +5,7 @@
 </p>
 
 <!-- LOGO -->
-<!-- ![Logo](https://www.dropbox.com/scl/fi/x73nagoer072hmo0vlpud/dotfiles.png?rlkey=omepgob0jh6t7kgp1nnkea7fo&st=74rssf8b&dl=0) -->
+<!-- ![Logo](https://i.imgur.com/Yf4XNLF.jpg) -->
 
 <h1 align="center">nvim-dotfiles</h1>
 
