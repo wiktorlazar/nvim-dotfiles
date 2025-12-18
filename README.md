@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/bDmqyPt.png" alt="nvim-dotfiles logo" width="140" />
+  <img src="https://imgur.com/a/DqZBie2" alt="nvim-dotfiles logo" width="140" />
 </p>
 
 <!-- LOGO -->
