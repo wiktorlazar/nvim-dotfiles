@@ -1,11 +1,11 @@
 
 
 <p align="center">
-  <img src="https://imgur.com/a/DqZBie2" alt="nvim-dotfiles logo" width="140" />
+  <img src="https://i.imgur.com/Yf4XNLF.jpeg" alt="nvim-dotfiles logo" width="140" />
 </p>
 
 <!-- LOGO -->
-<!-- ![Logo](https://i.imgur.com/bDmqyPt.png) -->
+<!-- ![Logo](https://i.imgur.com/Yf4XNLF.jpeg) -->
 
 <h1 align="center">nvim-dotfiles</h1>
 
