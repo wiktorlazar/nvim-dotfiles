@@ -4,6 +4,9 @@
   <img src="https://i.imgur.com/bDmqyPt.png" alt="nvim-dotfiles logo" width="140" />
 </p>
 
+<!-- LOGO -->
+<!-- ![Logo](https://i.imgur.com/bDmqyPt.png) -->
+
 <h1 align="center">nvim-dotfiles</h1>
 
 <p align="center">
